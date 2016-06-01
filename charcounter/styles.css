@@ -1,0 +1,31 @@
+body {
+  font-family: 'Ubuntu Mono';
+  background: black;
+
+}
+.title {
+  font-size: 38px;
+  border-bottom: 1px solid lightgrey;
+  width: 350px;
+  color: #c0c0c0;
+  text-align: center;
+  margin-left: 12px;
+}
+h4 {
+  font-size: 22px;
+  color: #c0c0c0;
+  margin-left: 27px;
+}
+#textbox {
+  height: 200px;
+  width: 275px;
+  font-size: 22px;
+  outline: none;
+  resize: none;
+  margin-left: 40px;
+}
+
+.remaining{
+  color: #c0c0c0;
+  margin-left: 90px
+}
